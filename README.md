@@ -1,4 +1,4 @@
-Exploratory Data Analysis(EDA) with python
+**Exploratory Data Analysis(EDA) with python**
 This project showcases an end-to-end Exploratory Data Analysis (EDA) using Python. The goal is to uncover meaningful insights, detect patterns, and identify relationships in the given dataset so that companies can increase their sales. I have performed following procedure for easy analysis:-
 
 Data loading and cleaning
